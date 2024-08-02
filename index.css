@@ -71,7 +71,7 @@ p {
 .links {
     display: flex;
     justify-content: center;
-    margin: 0.3rem;
+    margin: 0.4rem;
     padding: 0.8rem;
     background-color: rgb(51 51 51);
     border-radius: 0.5rem;
